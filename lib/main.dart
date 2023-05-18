@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:learningdart/views/login_view.dart';
+import 'package:learningdart/views/register_view.dart';
 import 'Firebase_options.dart';
 
 void main() {
@@ -11,6 +12,10 @@ void main() {
       title: 'Flutter Demo',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomePage(),
+      routes: {
+        '/login/':(context) => const LoginView(),
+        '/register/':(context) => const RegisterView(),
+      },
     ),
   );
 }
