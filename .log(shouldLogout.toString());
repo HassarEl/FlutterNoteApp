@@ -1,0 +1,41 @@
+[33mcommit 0ceaaadd9e212421f37107053467b69893de2445[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Fri May 19 20:58:48 2023 +0100
+
+    step-3
+
+[33mcommit d7e981272799c70bc1f00ca1f634b05f8582d2d4[m[33m ([m[1;33mtag: Step-2[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Thu May 18 21:05:26 2023 +0100
+
+    Move verify email to its own file
+
+[33mcommit 3194312fb7b7b2cc645c84bd5a7d15f1559ba207[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Thu May 18 11:08:03 2023 +0100
+
+    create verify email file
+
+[33mcommit b62ba22078c5d4e49a9d314b7d9234064ea22a98[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Thu May 18 10:42:25 2023 +0100
+
+    create route register to login
+
+[33mcommit fdb468e5d0124b866338ae3fd53030c5702b204f[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Thu May 18 10:17:29 2023 +0100
+
+    create route home to register
+
+[33mcommit 80b08935b954d92176b4ff49e01be272b3027edb[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Thu May 18 09:30:21 2023 +0100
+
+    Email Verification view
+
+[33mcommit 2e03287b84fb813f7e6c23d00f57b3d79178d301[m[33m ([m[1;33mtag: step-1[m[33m)[m
+Author: EL Mehdi HASSAR <mido.hass.31@gmail.com>
+Date:   Tue May 16 11:26:00 2023 +0100
+
+    initia commit
